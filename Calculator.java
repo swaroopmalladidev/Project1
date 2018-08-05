@@ -1,3 +1,4 @@
+/*Added additional comment in the file of Cloned folder*/
 /*This is a calculator program with two variables*/
 import java.util.Scanner;
 
